@@ -1,5 +1,7 @@
 # termtext
 Bash script function outputs, resizes and wraps text based on terminal window size.
+
+![examples.png](examples.png)
 ```terminal
 
 Example: term_text center double danger ${test_text}
